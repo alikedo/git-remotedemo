@@ -1,3 +1,3 @@
-let welcome = "hello world";
+let welcome = "hello woorld";
 
 console.log(welcome);
